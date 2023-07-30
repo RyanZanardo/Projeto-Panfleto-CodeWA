@@ -3,6 +3,7 @@ Trabalho Realizado para a Empresa Junior CodeWA, com o intuiuto de ser uma pagin
 
 -----------------------------------------------------
 Protótipo Final
+-
 Obs: Pagina web para dispositivos mobile, como foi descrito no projeto
 
 -----------------------------------------------------
