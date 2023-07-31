@@ -12,4 +12,5 @@ Projeto Feito no Figma
 
 
 
-![Panfleto 1 BLACK](https://github.com/RyanZanardo/Projeto-Panfleto-CodeWA/assets/123217928/a07e2a4d-7b98-4067-9d76-408c168c6310)
+![Panfleto 1 BLACK](https://github.com/RyanZanardo/Projeto-Panfleto-CodeWA/assets/123217928/c368c82a-33ed-42e2-ac3d-a1a298f54b3a)
+
